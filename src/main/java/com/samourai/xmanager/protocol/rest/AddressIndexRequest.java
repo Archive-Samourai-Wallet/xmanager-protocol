@@ -2,12 +2,12 @@ package com.samourai.xmanager.protocol.rest;
 
 import javax.validation.constraints.NotEmpty;
 
-public class AddressRequest {
+public class AddressIndexRequest {
   @NotEmpty public String id;
 
-  public AddressRequest() {}
+  public AddressIndexRequest() {}
 
-  public AddressRequest(String id) {
+  public AddressIndexRequest(String id) {
     this.id = id;
   }
 }
