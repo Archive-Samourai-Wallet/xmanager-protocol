@@ -17,4 +17,16 @@ public class XManagerProtocol {
     }
     return instance;
   }
+
+  public String getUrlAddress(String server) {
+    return server + XManagerEndpoint.REST_ADDRESS;
+  }
+
+  public String getUrlAddressIndex(String server) {
+    return server + XManagerEndpoint.REST_ADDRESS_INDEX;
+  }
+
+  public String getUrlVerifyAddressIndex(String server) {
+    return server + XManagerEndpoint.REST_VERIFY_ADDRESS_INDEX;
+  }
 }
