@@ -2,7 +2,7 @@ package com.samourai.xmanager.protocol;
 
 public class XManagerProtocol {
   /** Current protocol version. */
-  public static final String PROTOCOL_VERSION = "0.1";
+  public static final String PROTOCOL_VERSION = "1.0";
 
   /** Header specifying the protocol version. */
   public static final String HEADER_PROTOCOL_VERSION = "xmanagerVersion";
