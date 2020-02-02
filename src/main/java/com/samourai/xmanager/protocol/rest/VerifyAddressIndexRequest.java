@@ -1,11 +1,14 @@
 package com.samourai.xmanager.protocol.rest;
 
 import javax.validation.constraints.NotEmpty;
+import org.hibernate.validator.constraints.Range;
 
 public class VerifyAddressIndexRequest {
   @NotEmpty public String id;
   @NotEmpty public String address;
-  @NotEmpty public int index;
+
+  @Range(min = 0)
+  public int index;
 
   public VerifyAddressIndexRequest() {
     super();
