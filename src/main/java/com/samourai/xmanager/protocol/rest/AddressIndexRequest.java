@@ -1,6 +1,6 @@
 package com.samourai.xmanager.protocol.rest;
 
-import org.hibernate.validator.constraints.NotEmpty;
+import javax.validation.constraints.NotEmpty;
 
 public class AddressIndexRequest {
   @NotEmpty public String id;
