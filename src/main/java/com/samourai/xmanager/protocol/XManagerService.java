@@ -12,7 +12,9 @@ public enum XManagerService {
       "bc1qptv26ag03um6dhvcrfjh29wlez64mdufw77z8g", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
   BIP47("bc1quq8h89h6j9f6nv5fyqjjav2auzah799lq2j9fa", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
   OXT_RESEARCH(
-      "bc1qj2sac3nvaettzz5egmtnk223vjrey2hxyx9j9k", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk");
+      "bc1qj2sac3nvaettzz5egmtnk223vjrey2hxyx9j9k", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
+  STONEWALL(
+      "bc1q9fz5u4g28zh5lv43hf5v642pl8a4d3e8t7gz0f", "tb1qgecrwnq4mek745xxmy3sc3404wrnay3f5p3uuh");
 
   private String defaultAddressMainnet;
   private String defaultAddressTestnet;
