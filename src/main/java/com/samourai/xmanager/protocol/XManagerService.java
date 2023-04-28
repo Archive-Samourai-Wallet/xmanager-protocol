@@ -14,7 +14,8 @@ public enum XManagerService {
   OXT_RESEARCH(
       "bc1qj2sac3nvaettzz5egmtnk223vjrey2hxyx9j9k", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
   STONEWALL(
-      "bc1q9fz5u4g28zh5lv43hf5v642pl8a4d3e8t7gz0f", "tb1qgecrwnq4mek745xxmy3sc3404wrnay3f5p3uuh");
+      "bc1q9fz5u4g28zh5lv43hf5v642pl8a4d3e8t7gz0f", "tb1qgecrwnq4mek745xxmy3sc3404wrnay3f5p3uuh"),
+  HEXA("bc1q56p8t7pfahvffzumkmsd7r6ex5746a0yna9nax", "tb1q2dtjt9f9qvj2gctu0qk28w7mlkvglu8p6ghaqx");
 
   private String defaultAddressMainnet;
   private String defaultAddressTestnet;
