@@ -7,6 +7,8 @@ public enum XManagerService {
       "bc1qctv9kxux6r3reu4uj0glh5gwne2hewy0pfpv79", "tb1qh4w64gvlkpfrhre503ed8unzzstd5vyl9x0am9"),
   WHIRLPOOL_FREESIDE(
       "bc1qent9f0wlphtmgp5t9x3wzt440mq5rlup6htv8r", "tb1qx79uw4m79ecwwr2s70wvj66svskzaqckd4w96m"),
+  WHIRLPOOL_HEXA(
+      "bc1q56p8t7pfahvffzumkmsd7r6ex5746a0yna9nax", "tb1q2dtjt9f9qvj2gctu0qk28w7mlkvglu8p6ghaqx"),
   SAAS("bc1qsnefhrmd8gs6a4j7fzxfy4ay52j78agl6rsw36", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
   RICOCHET(
       "bc1qptv26ag03um6dhvcrfjh29wlez64mdufw77z8g", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
@@ -14,8 +16,7 @@ public enum XManagerService {
   OXT_RESEARCH(
       "bc1qj2sac3nvaettzz5egmtnk223vjrey2hxyx9j9k", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
   STONEWALL(
-      "bc1q9fz5u4g28zh5lv43hf5v642pl8a4d3e8t7gz0f", "tb1qgecrwnq4mek745xxmy3sc3404wrnay3f5p3uuh"),
-  HEXA("bc1q56p8t7pfahvffzumkmsd7r6ex5746a0yna9nax", "tb1q2dtjt9f9qvj2gctu0qk28w7mlkvglu8p6ghaqx");
+      "bc1q9fz5u4g28zh5lv43hf5v642pl8a4d3e8t7gz0f", "tb1qgecrwnq4mek745xxmy3sc3404wrnay3f5p3uuh");
 
   private String defaultAddressMainnet;
   private String defaultAddressTestnet;
