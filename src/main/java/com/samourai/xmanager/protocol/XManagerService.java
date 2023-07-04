@@ -9,6 +9,8 @@ public enum XManagerService {
       "bc1qent9f0wlphtmgp5t9x3wzt440mq5rlup6htv8r", "tb1qx79uw4m79ecwwr2s70wvj66svskzaqckd4w96m"),
   WHIRLPOOL_HEXA(
       "bc1q56p8t7pfahvffzumkmsd7r6ex5746a0yna9nax", "tb1q2dtjt9f9qvj2gctu0qk28w7mlkvglu8p6ghaqx"),
+  WHIRLPOOL_FOUNDATION(
+      "bc1qyzfg4565lf4wcqvt4hahza47ednt5j4jdl0dh2", "tb1qjxdy8v7kl6d363x690teag9ag5ms90mlgnqh7y"),
   SAAS("bc1qsnefhrmd8gs6a4j7fzxfy4ay52j78agl6rsw36", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
   RICOCHET(
       "bc1qptv26ag03um6dhvcrfjh29wlez64mdufw77z8g", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
