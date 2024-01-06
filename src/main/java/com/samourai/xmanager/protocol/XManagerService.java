@@ -11,6 +11,8 @@ public enum XManagerService {
       "bc1q56p8t7pfahvffzumkmsd7r6ex5746a0yna9nax", "tb1q2dtjt9f9qvj2gctu0qk28w7mlkvglu8p6ghaqx"),
   WHIRLPOOL_FOUNDATION(
       "bc1qyzfg4565lf4wcqvt4hahza47ednt5j4jdl0dh2", "tb1qjxdy8v7kl6d363x690teag9ag5ms90mlgnqh7y"),
+  WHIRLPOOL_STACKWALLET(
+      "bc1q7a7ddlvpta2kxzl6aqfu7wuccc05y4f2qfanpu", "tb1q7j34f30cmqu6fxamr6vauym7hrludgyz7tmx0k"),
   SAAS("bc1qsnefhrmd8gs6a4j7fzxfy4ay52j78agl6rsw36", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
   RICOCHET(
       "bc1qptv26ag03um6dhvcrfjh29wlez64mdufw77z8g", "tb1q6y29zmgw2ajgmqrnpqrf0ejtyrqsh3ehd6wjlk"),
